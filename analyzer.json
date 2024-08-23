@@ -2,7 +2,7 @@
     "name": "NLP_Analyzer",
     "version": "1.0",
     "author": "Bantor Yahya",
-    "url": "https://github.com/Yavix708/NLP_analyzer",
+    "url": "https://github.com/lmvd/NLP",
     "description": "Check for spelling mistakes in email",
     "dataTypeList": ["mail"],
     "baseConfig": "NLP_Analyzer",
